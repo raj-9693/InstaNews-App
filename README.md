@@ -40,6 +40,8 @@ Designed to provide a smooth reading experience, InstaNews offers category filte
 - Creating a smooth user experience with Material Design
 
 <img src="https://i.postimg.cc/Z57tVD8Y/IMG-20250802-WA0007.jpg" alt="Background Image" width="200" style="margin-right: 30px;">
+
+[Git More Info](https://drive.google.com/file/d/1MQIWFVCy6-VOiRKyjmbi6hgHEHUc7SFX/view?usp=sharing)
 [Git More Info](https://drive.google.com/file/d/1MQIWFVCy6-VOiRKyjmbi6hgHEHUc7SFX/view?usp=sharing)
 
 
@@ -55,10 +57,3 @@ Designed to provide a smooth reading experience, InstaNews offers category filte
     <img src="https://i.postimg.cc/jjp0PnTR/Screenshot-20250809-164822.jpg" alt="Background Image" width="200" style="margin-right: 30px;">
    <img src="https://i.postimg.cc/d3FbSMDX/Screenshot-20250809-164848.jpg" alt="Background Image" width="200" style="margin-right: 30px;">
 </p>
----
-
-## 📥 Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/InstaNews-App.git
