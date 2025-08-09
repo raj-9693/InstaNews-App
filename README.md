@@ -39,16 +39,22 @@ Designed to provide a smooth reading experience, InstaNews offers category filte
 - Implementing search and filtering features
 - Creating a smooth user experience with Material Design
 
----
+<img src="https://i.postimg.cc/Z57tVD8Y/IMG-20250802-WA0007.jpg" alt="Background Image" width="200" style="margin-right: 30px;">
+[Git More Info](https://drive.google.com/file/d/1MQIWFVCy6-VOiRKyjmbi6hgHEHUc7SFX/view?usp=sharing)
+
 
 ## 📸 Screenshots
 
-| Home Screen | Detail View | Search | Saved News |
-|-------------|-------------|--------|------------|
-| ![Home](screenshots/home.png) | ![Detail](screenshots/detail.png) | ![Search](screenshots/search.png) | ![Saved](screenshots/saved.png) |
 
-*(Add screenshots in `/screenshots` folder)*
 
+<p>
+   <img src="https://i.postimg.cc/G3Y37rgM/Screenshot-20250809-164732.jpg" alt="Background Image" width="200" style="margin-right: 30px;">
+  <img src="https://i.postimg.cc/DwC7Jzmz/Screenshot-20250809-164743.jpg" alt="Background Image" width="200" style="margin-right: 30px;">
+   <img src="https://i.postimg.cc/yYsKLRZd/Screenshot-20250809-164758.jpg" alt="Background Image" width="200" style="margin-right: 30px;">
+   <img src="https://i.postimg.cc/DzJ3SdtC/Screenshot-20250809-164807.jpg" alt="Background Image" width="200" style="margin-right: 30px;">
+    <img src="https://i.postimg.cc/jjp0PnTR/Screenshot-20250809-164822.jpg" alt="Background Image" width="200" style="margin-right: 30px;">
+   <img src="https://i.postimg.cc/d3FbSMDX/Screenshot-20250809-164848.jpg" alt="Background Image" width="200" style="margin-right: 30px;">
+</p>
 ---
 
 ## 📥 Installation
