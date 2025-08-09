@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="my_status_bar_color">#B9BEC3</color>
+
+    <color name="shimmer_base">#E0E0E0</color>       <!-- हल्का dark grey -->
+    <color name="shimmer_highlight">#F5F5F5</color>  <!-- हल्का light grey/white -->
+
+    <!-- Example: Orange -->
+
+</resources>

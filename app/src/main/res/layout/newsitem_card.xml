@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:orientation="horizontal"
+        android:padding="2dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="12dp"
+        android:gravity="center"
+        android:background="@drawable/category_card_background">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_marginLeft="8dp"
+            android:src="@drawable/ic_launcher_foreground"
+            android:scaleType="centerInside" />
+
+        <TextView
+            android:id="@+id/titleText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Crypto"
+            android:fontFamily="@font/robotobold"
+            android:layout_marginRight="6dp"
+            android:layout_marginLeft="6dp"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            android:textColor="#2A2A2A"
+             />
+
+    </LinearLayout>
+

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InstaNews</string>
+    <color name="shimmer_bg">#B8B7B7</color>
+
+</resources>

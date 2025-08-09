@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    android:layout_margin="5dp"
+    card_view:cardCornerRadius="12dp"
+    card_view:cardElevation="6dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/desion_card"
+        android:padding="8dp">
+
+        <!-- Main Image -->
+        <ImageView
+            android:id="@+id/Thumbnail"
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/background" />
+
+        <!-- Title + Lottie (Side by Side) -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="8dp"
+            android:gravity="center_vertical"
+            android:weightSum="1">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.8"
+                android:orientation="vertical">
+
+                <!-- Title -->
+                <TextView
+                    android:id="@+id/title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Grace  Noah’s Wedding"
+                    android:textStyle="bold"
+                    android:fontFamily="@font/robotoregular"
+                    android:textSize="16sp"
+                    android:textColor="#FFFFFF" />
+
+                <!-- Date -->
+                <TextView
+                    android:id="@+id/date"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="November 14"
+                    android:textSize="14sp"
+                    android:textColor="#777777"
+                    android:layout_marginTop="2dp" />
+            </LinearLayout>
+
+            <!-- Lottie Animation -->
+            <com.airbnb.lottie.LottieAnimationView
+                android:id="@+id/save_animation"
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_weight="0.2"
+                android:layout_marginStart="8dp"
+                android:layout_gravity="center"
+                app:lottie_rawRes="@raw/saved"
+                app:lottie_autoPlay="false"
+                app:lottie_loop="false" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
+
+
