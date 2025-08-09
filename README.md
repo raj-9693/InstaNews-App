@@ -42,7 +42,6 @@ Designed to provide a smooth reading experience, InstaNews offers category filte
 <img src="https://i.postimg.cc/Z57tVD8Y/IMG-20250802-WA0007.jpg" alt="Background Image" width="200" style="margin-right: 30px;">
 
 [Git More Info](https://drive.google.com/file/d/1MQIWFVCy6-VOiRKyjmbi6hgHEHUc7SFX/view?usp=sharing)
-[Git More Info](https://drive.google.com/file/d/1MQIWFVCy6-VOiRKyjmbi6hgHEHUc7SFX/view?usp=sharing)
 
 
 ## 📸 Screenshots
